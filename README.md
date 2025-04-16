@@ -4,7 +4,7 @@
 git remote set-url upstream https://github.com/stefanolazzari/1c-gruppo.git 2>/dev/null || git remote add upstream https://github.com/stefanolazzari/1c-gruppo.git
 
 # Recupera gli aggiornamenti dal repository originale
-git fetch upstream
+ git fetch upstream
 
 # Passa al branch principale
 git checkout main
